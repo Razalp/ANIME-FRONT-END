@@ -1,7 +1,9 @@
-
+import ThemeLayout from "./layout/ThemeLayout"
 const App = () => {
   return (
-    <div>App</div>
+  <>
+  <ThemeLayout/>
+  </>
   )
 }
 
